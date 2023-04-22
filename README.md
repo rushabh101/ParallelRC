@@ -311,7 +311,7 @@ gcc driver.c -o vectorAddition -lOpenCL
 ./vectorAddition
 ```
 
-### Homework
+### Extra
 Implement an OpenCL program which multiplies 2 matrices of arbitrary size and outputs the value.
 
 HINTS: 
